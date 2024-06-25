@@ -6,11 +6,11 @@ Los datos se recopilaron en el entorno cotidiano y cada uno de los 46 registros 
 # Descripción de datos 
 46 sujetos (32 hombres y 14 mujeres) participaron en la captura de señales de PPG, La edad media fue de 56,93 ± 12,85 años. Ademas, dentro de la información que se recopilo esta si el sujeto tomaba de algun medicamento para la hipercolesterolemia, el padecimiento de alguna otra enfermedad. el peso y la estura. En el archivo de Excel, "Datos_sujetos_PPG.xlsx", cada item se refiere a:
 
-N° del registro:
-Genero:
-Edad: 
-Peso:
-Estatura:
-Medicado: 
-Valor del colesterol (mg/dl): 
+N° del registro: nombre del registro asociado a cada individuo, 'Sujeto##_PPG" (donde ## es el número de sujeto).
+Genero: Masculino o Femenino.
+Edad: rango entre 30 - 80 años.
+Peso: rango entre 50 A 103 Kilogramos.
+Estatura: rango entre 1.47 a 1.80 metros.
+Medicado: 'Si', toma medicamento, 'No', no toma medicamento. 
+Valor de colesterol: rango entre  135 a 300 (mg/dl)
 PerfilL: Clasificación según la guía del ATP III ( CA= colesterol alto, CM= colesterol medio alto y CO= colesterol óptimo)
