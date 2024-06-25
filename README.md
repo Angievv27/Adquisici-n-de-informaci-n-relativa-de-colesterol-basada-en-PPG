@@ -1,1 +1,1 @@
-# Adquisici-n-de-informaci-n-relativa-de-colesterol-basada-en-PPG
+# Adquisición-de-información-relativa-de-colesterol-basada-en-PPG
